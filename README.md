@@ -1,2 +1,2 @@
 # irfan-sample
-This is the sample opportunity created for testing purpose
+This is the sample repository created for testing purpose
